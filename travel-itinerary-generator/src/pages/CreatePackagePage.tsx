@@ -530,10 +530,6 @@ function CreatePackagePage() {
                 </article>
               ))}
             </div>
-
-            <pre className="preview-json">
-              {JSON.stringify(generatedTrip, null, 2)}
-            </pre>
           </section>
         ) : null}
       </main>

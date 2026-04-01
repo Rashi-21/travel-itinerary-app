@@ -1249,17 +1249,6 @@ img {
   list-style: none;
 }
 
-.preview-json {
-  margin: 0;
-  padding: 20px;
-  overflow-x: auto;
-  border-radius: 20px;
-  background: #1d2640;
-  color: #f4f7ff;
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
 .feature-split--about {
   grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.8fr);
 }
